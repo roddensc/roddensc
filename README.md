@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roddensc
 - 👀 I’m interested in growing my skills and transitioning to a career in IT
-- 🌱 I’m currently learning Python, SQL, data analysis, and more
+- 🌱 I’m currently learning information security, Python, SQL, data analysis, and more at George Washington University
 - 💞️ I’m looking to collaborate on anything I can get my hands on
 - 📫 How to reach me by email at RoddenSC@gmail.com
 - 😄 Pronouns: he/him
